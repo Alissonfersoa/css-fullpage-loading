@@ -39,39 +39,39 @@ h2{
     0%{
         transform: scaleX(0);
         transform-origin: left;
-        background: #ff2c60;
+        background: #ed553b;
     }
     25%{
         transform: scaleX(1);
         transform-origin: left;
-        background: #ff2c60;
+        background: #ed553b;
     }
     25.001%{
         transform: scaleX(1);
         transform-origin: right;
-        background: #ff2c60;
+        background: #ed553b;
     }
     50%{
         transform: scaleX(0);
         transform-origin: left;
-        background: #ff2c60;
+        background: #ed553b;
     }
     50.0001%{
-        background: #03a9f4;
+        background: #20639B;
     }
     75%{
         transform: scaleX(1);
         transform-origin: right;
-        background: #03a9f4;
+        background: #20639B;
     }
     75.001%{
         transform: scaleX(1);
         transform-origin: left;
-        background: #03a9f4;
+        background: #20639B;
     }
     100%{
         transform: scaleX(0);
         transform-origin: left;
-        background: #03a9f4;
+        background: #20639B;
     }
 }
